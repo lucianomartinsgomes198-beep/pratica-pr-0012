@@ -1,1 +1,28 @@
+# [Título do Procedimento Técnico — UC 3]
 
+* **Aluno(a):** luciano martins gomes
+* **Tema:** backup e restauração de dados em disco externo
+
+## 1. Objetivo
+realizar o backup e a restauração de arquivos em um disco externo
+
+## 2. Ferramentas e Cuidados Técnicos
+* computador
+* disco externo
+* cabo usb
+* software de backup
+
+## 3. Passo a Passo
+1. conectar o disco externo ao computador
+2. abrir o software de backup ou a pasta da copia
+3. selecionar os arquivos que devm ser restaurados
+4. escolher o local de destino no computador
+5. confirmar a restauração e agardar a conclusão
+   ```
+3. Terceiro passo...
+
+## 4. Como Validar (Teste Final)
+- [ ] verificar se o disco externo esta disponivel
+- [ ] confirmar se a copia de segurança foi criada
+- [ ] garantir que as informaçãoesforam restauradas corretamente
+- [ ] conferir se os arquivos restaurados abrem normalmente
